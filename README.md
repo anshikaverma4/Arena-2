@@ -41,6 +41,10 @@ images/
 - Validation: name, email and message checks
 - Local Storage: theme preference
 - Dynamic content: skills, projects and gallery
+- Added interactive features including theme toggling with 'localStorage',an image slider and dynamic skill message displays
+
+## Screenshots
+![Portfolio Preview](images/Screenshot from 2026-09-29 21-03-42.png)
 
 ## Testing Checklist
 - Toggle dark/light mode and refresh.
